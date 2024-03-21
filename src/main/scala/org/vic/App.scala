@@ -9,6 +9,7 @@ object App {
   
   def main(args : Array[String]) {
     println( "Hello World!" )
+    println( "Hello World 2!" )
     println("concat arguments = " + foo(args))
   }
 
